@@ -1,0 +1,17 @@
+ryann.html
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+            </head>
+            <body>
+             <h1>Futsal</h1>   
+             <p>Irei Falar da História do futsal </p>
+             <p>O futsal é um esporte que teve sua origem em 1934, no Uruguai. O seu criador foi Juan Carlos Ceriani, que observou que a maioria das crianças jogava futebol em campos de outros esportes, que eram mais reduzidos, devido a não conseguirem encontrar um campo de futebol.</p>
+<h2>Criador Do Futsal </h2>
+             <p> Juan Carlos Ceriani Gravier
+                O futsal surgiu nos anos 30 no Uruguai, criado pelo professor de Educação Física Juan Carlos Ceriani Gravier, da Associação Cristã de Moços (ACM). No início era chamado de Indoor Football (na tradução literal significa “futebol em espaço interno, ou seja, em espaços fechados”).
+             <p>A criação foi de Juan Carlos Ceriani professor da A.C.M. de Montevidéu é considerado o criador do Futsal, foi ele quem formalizou as primeiras regras do Futsal, nelas o professor Ceriani mesclou regras do Futebol, do Basquete, do Handebol e até do Polo Aquático.</p>
+             </body>
+             </html>
